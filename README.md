@@ -2,7 +2,7 @@
 
 - 基于vue + vuex + vue-router + vue-axios + ES6 + Scss + flex 的网易云音乐APP
 
-- 项目演示地址: [音乐APP](http://106.15.237.176:4200)
+- 项目演示地址: [音乐APP](http://101.132.155.236:4200)
 
 # 技术栈
 
